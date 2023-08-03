@@ -1,7 +1,9 @@
 Australia
 America
 Canada
+Cuba
 Denmark
+Dubai
 France
 Germany
 Italy
@@ -9,3 +11,4 @@ India
 Japan
 South africa
 UAE
+West Indies
